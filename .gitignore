@@ -1,3 +1,7 @@
-
-*.user
+﻿
+*.user*
 Dune/~$чет по компьютерному моделированию.docx
+*.stash
+*.o
+moc_*
+Makefile*
